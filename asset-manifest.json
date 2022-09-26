@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BTCN01_Gomoku_19120576/static/css/main.e77b3007.css",
+    "main.js": "/BTCN01_Gomoku_19120576/static/js/main.cdb9747f.js",
+    "index.html": "/BTCN01_Gomoku_19120576/index.html",
+    "main.e77b3007.css.map": "/BTCN01_Gomoku_19120576/static/css/main.e77b3007.css.map",
+    "main.cdb9747f.js.map": "/BTCN01_Gomoku_19120576/static/js/main.cdb9747f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e77b3007.css",
+    "static/js/main.cdb9747f.js"
+  ]
+}
